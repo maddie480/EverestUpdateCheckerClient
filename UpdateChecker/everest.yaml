@@ -1,0 +1,6 @@
+﻿- Name: UpdateChecker
+  Version: 1.0.2
+  DLL: UpdateChecker.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.985.0

@@ -1,0 +1,12 @@
+﻿MODOPTIONS_UPDATECHECKER_TITLE=	Mise à jour des mods
+MODOPTIONS_UPDATECHECKER_NOUPDATE=	Aucune mise à jour disponible
+UPDATECHECKER_OPEN_MENU= Vérifier les mises à jour
+UPDATECHECKER_MENU_TITLE=MISE À JOUR DES MODS
+UPDATECHECKER_MENU_HEADER=Mises à jour disponibles
+UPDATECHECKER_FETCHING=Vérification en cours...
+MODOPTIONS_UPDATECHECKER_ERROR=Erreur de vérification des mises à jour.
+UPDATECHECKER_UPDATED=mis à jour
+UPDATECHECKER_DOWNLOADING=téléchargement en cours...
+UPDATECHECKER_INSTALLING=installation...
+UPDATECHECKER_FAILED=échec de mise à jour
+UPDATECHECKER_WILLRESTART=appuyez sur Retour pour redémarrer Celeste
